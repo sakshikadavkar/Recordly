@@ -1,7 +1,7 @@
 # 📒 Recordly
 
 ## 🚀 About the Project
-Recordly is a simple and efficient web-based record management system built using HTML, CSS, and JavaScript. It helps users add, view, and manage records in a clean and user-friendly interface.
+Recordly is a simple and efficient web-based record management system built using HTML, CSS, and JavaScript. It allows users to manage and organize records in a clean and easy-to-use interface.
 
 ---
 
@@ -15,24 +15,24 @@ Recordly is a simple and efficient web-based record management system built usin
 ## 📸 Screenshots
 
 ### Home Page
-![Home](home.png)
+![Home Page](home.png)
 
-### Dashboard
-![Dashboard](dashboard.png)
+### Export Page
+![Export Page](export.png)
 
 ---
 
 ## ✨ Features
 - Add new records
-- View stored records
-- Delete or manage records
-- Simple and clean UI
+- View existing records
+- Export data functionality
+- Simple and responsive UI
 - Beginner-friendly project
 
 ---
 
-## 🎯 Project Purpose
-This project was built to practice frontend development skills and understand how JavaScript works with HTML and CSS in real applications.
+## 🎯 Purpose
+This project was built to improve frontend development skills and understand how HTML, CSS, and JavaScript work together in real-world applications.
 
 ---
 
@@ -42,6 +42,6 @@ Created by Sakshi
 ---
 
 ## 📌 Note
-If images are not showing, make sure:
-- Image files are uploaded in the same GitHub repository
-- Image names match exactly (home.png, dashboard.png)
+If images are not visible:
+- Make sure `home.png` and `export.png` are uploaded in the same repository
+- File names must match exactly (case-sensitive)
